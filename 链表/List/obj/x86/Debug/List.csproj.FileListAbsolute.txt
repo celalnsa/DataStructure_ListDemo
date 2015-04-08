@@ -1,0 +1,9 @@
+D:\CWork\highC#\List\List\bin\Debug\List.exe
+D:\CWork\highC#\List\List\bin\Debug\List.pdb
+D:\CWork\highC#\List\List\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CWork\highC#\List\List\obj\x86\Debug\List.Properties.Resources.resources
+D:\CWork\highC#\List\List\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CWork\highC#\List\List\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CWork\highC#\List\List\obj\x86\Debug\List.exe
+D:\CWork\highC#\List\List\obj\x86\Debug\List.pdb
+D:\CWork\highC#\List\List\obj\x86\Debug\List.ListForm.resources
